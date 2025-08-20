@@ -1,0 +1,2 @@
+# Zappstore
+Decentralized app store
